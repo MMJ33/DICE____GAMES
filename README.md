@@ -1,2 +1,2 @@
-# DICE____GAMES
+# DICE-GAMES
 alertoire
